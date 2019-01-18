@@ -1,0 +1,14 @@
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\bin\Debug\netcoreapp2.1\PointsBetChallenge.deps.json
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\bin\Debug\netcoreapp2.1\PointsBetChallenge.runtimeconfig.json
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\bin\Debug\netcoreapp2.1\PointsBetChallenge.runtimeconfig.dev.json
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\bin\Debug\netcoreapp2.1\PointsBetChallenge.dll
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\obj\Debug\netcoreapp2.1\PointsBetChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\obj\Debug\netcoreapp2.1\PointsBetChallenge.RazorAssemblyInfo.cache
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\obj\Debug\netcoreapp2.1\PointsBetChallenge.RazorAssemblyInfo.cs
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\obj\Debug\netcoreapp2.1\PointsBetChallenge.AssemblyInfoInputs.cache
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\obj\Debug\netcoreapp2.1\PointsBetChallenge.AssemblyInfo.cs
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\obj\Debug\netcoreapp2.1\PointsBetChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\obj\Debug\netcoreapp2.1\PointsBetChallenge.csprojAssemblyReference.cache
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\bin\Debug\netcoreapp2.1\PointsBetChallenge.pdb
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\obj\Debug\netcoreapp2.1\PointsBetChallenge.dll
+C:\Users\Nolawee\Documents\PointsBetChallenge\PointsBetChallenge\obj\Debug\netcoreapp2.1\PointsBetChallenge.pdb
